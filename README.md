@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi there, I'm Eric!
 
-<!--
-**Doc3ric/Doc3ric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Gamer Mode:** Always grinding in Mobile Legends  
+💻 **Coder Mode:** Building stuff with Java, Python, and C++  
+⚡ **Status:** Busy... but still coding 😎  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently working on: **Projects & Systems Development**
+- 🌱 Currently learning: **Android Development & APIs**
+- 💻 Languages I love:  
+  - ☕ Java  
+  - 🐍 Python  
+  - ⚙️ C++  
+- 🎮 When I'm not coding: **Playing Mobile Legends**
+
+---
+
+### 🧠 Skills
+```text
+Java      █████████░░
+Python    ████████░░░
+C++       ███████░░░░
