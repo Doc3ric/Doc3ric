@@ -1,24 +1,20 @@
-## 👋 Hi there, I'm Eric!
+## 👋 Hi, I'm Eric
 
-🎮 **Gamer Mode:** Always grinding in Mobile Legends  
-💻 **Coder Mode:** Building stuff with Java, Python, and C++  
-⚡ **Status:** Busy... but still coding 😎  
-
----
-
-### 🚀 About Me
-- 🔭 Currently working on: **Projects & Systems Development**
-- 🌱 Currently learning: **Android Development & APIs**
-- 💻 Languages I love:  
-  - ☕ Java  
-  - 🐍 Python  
-  - ⚙️ C++  
-- 🎮 When I'm not coding: **Playing Mobile Legends**
+I’m a student who enjoys learning and building simple projects.  
+Still improving every day, both in coding and problem-solving.
 
 ---
 
-### 🧠 Skills
+### 💻 About Me
+- 🎓 BSIT Student
+- 🌱 Currently learning **Android Development & APIs**
+- 💡 Interested in **system development and mobile apps**
+- 🎮 I play Mobile Legends during free time
+
+---
+
+### 🛠️ Languages
 ```text
-Java      █████████░░
-Python    ████████░░░
-C++       ███████░░░░
+Java      ██████████░░░░░░ 60%
+Python    █████████░░░░░░░ 55%
+C++       ███████░░░░░░░░░ 40%
