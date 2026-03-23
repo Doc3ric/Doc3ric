@@ -13,6 +13,6 @@ I’m continuously improving my skills in coding, problem-solving, and system de
 🧠 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doc3ric&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,javascript"/>
-</p>username=Doc3ric&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/> </p>
+
 📈 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doc3ric&theme=tokyo-night&hide_border=true"/> </p>
