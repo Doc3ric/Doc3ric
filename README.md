@@ -1,20 +1,19 @@
-## 👋 Hi, I'm Eric
+👋 Hi, I'm Eric
 
-I’m a student who enjoys learning and building simple projects.  
-Still improving every day, both in coding and problem-solving.
+I'm a BSIT student who enjoys learning by building simple and practical projects.
+I’m continuously improving my skills in coding, problem-solving, and system development.
 
----
+💻 About Me
+🎓 3rd Year BSIT Student
+🌱 Currently exploring Android Development & API Integration
+💡 Interested in mobile apps, system design, and real-world solutions
+🎮 I play Mobile Legends in my free time
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Doc3ric&show_icons=true&theme=tokyonight&hide_border=true" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doc3ric&theme=tokyonight&hide_border=true" height="150"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doc3ric&theme=tokyo-night&hide_border=true"/> </p>
+🚀 Current Focus
+Building Android apps using Java
+Working with APIs (Firebase, OSM, etc.)
+Improving clean code and project structure
+📌 Mindset
 
-### 💻 About Me
-- 🎓 BSIT Student
-- 🌱 Currently learning **Android Development & APIs**
-- 💡 Interested in **system development and mobile apps**
-- 🎮 I play Mobile Legends during free time
-
----
-
-### 🛠️ Languages
-```text
-Java      ██████████░░░░░░ 60%
-Python    █████████░░░░░░░ 55%
-C++       ███████░░░░░░░░░ 40%
+"Learning step by step, building things that actually work."
