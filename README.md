@@ -1,17 +1,180 @@
-# 💫 About Me:
-👋 Hi, I'm Eric<br><br>I'm a BSIT student who enjoys learning by building simple and practical projects.<br>I’m continuously improving my skills in coding, problem-solving, and system development.<br><br>💻 About Me<br>- 4th year BSIT Student<br>- Currently exploring Android Development & API Integration<br>- Interested in mobile apps, system design, and real-world solutions<br><br>📊 GitHub Stats<br><br><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Doc3ric&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doc3ric&theme=tokyonight&hide_border=true" height="160"/> <br>📈 Contribution Graph<br><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doc3ric&theme=tokyo-night&hide_border=true"/> </p><br>
+# 👋 Hi, I'm Eric Alenton
 
+### Full-Stack Web Developer | BSIT Graduate | Government Systems Developer
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Doc3ric) 
+🚀 **Open to Freelance & Web Development Opportunities**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Doc3ric&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Doc3ric&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a Bachelor of Science in Information Technology graduate currently working with the Provincial Human Resource Management Office (PHRMO) in Bukidnon. I specialize in building practical, production-ready web applications that solve real-world problems for organizations and communities.
+
+My experience ranges from government HR systems and school management platforms to Android applications, IoT solutions, and data-driven dashboards.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Doc3ric&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 What I Do
+
+* Full-Stack Web Development
+* Laravel Application Development
+* REST API Development & Integration
+* Database Design & Management
+* Android & Flutter Development
+* System Analysis & Design
+* Government & Educational Information Systems
+
+---
+
+## 🏆 Featured Projects
+
+### 🏛️ Human Resource Management Data System (PHRMO)
+
+Production-deployed HRMS developed for the Provincial Human Resource Management Office.
+
+**Key Features**
+
+* Employee Management
+* Plantilla, Casual & Job Order Records
+* Automated Step Increment Processing
+* NOSI, NOLP & NOSA Generation
+* Salary Schedule Management
+* Retirement Tracking
+* Audit Logs
+* Role-Based Access Control
+
+**Tech Stack**
+Laravel • PHP • MySQL • TailwindCSS • Vite • DomPDF • PHPWord • Maatwebsite Excel
+
+---
+
+### 🏫 School Management Information System
+
+A web-based system developed for Kibalamag Elementary School.
+
+**Key Features**
+
+* Student Registration
+* PTA Fee Management
+* Sibling Discounts
+* Grade Promotion
+* Excel Import
+* PDF Reports
+* Audit Logging
+
+**Tech Stack**
+Laravel • PHP • MySQL • Vite • DomPDF • Maatwebsite Excel
+
+---
+
+### 📱 Dementia Care Monitoring System
+
+Capstone project combining Android and IoT technologies for patient monitoring.
+
+**Key Features**
+
+* Real-Time GPS Tracking
+* Safe Zone Monitoring
+* Firebase Integration
+* Push Notifications
+* Multiple Device Support
+
+**Tech Stack**
+Android (Java) • Firebase • Google Maps API • ESP8266 • NEO-6M GPS
+
+---
+
+### 🏀 PropTrack NBA Analytics Dashboard
+
+Sports analytics dashboard with automated player performance analysis.
+
+**Tech Stack**
+React • FastAPI • Python • SQLite • Pandas • TailwindCSS
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+
+* Laravel
+* PHP
+* Node.js
+* Express.js
+
+### Frontend
+
+* React
+* JavaScript
+* HTML5
+* CSS3
+* TailwindCSS
+* Bootstrap
+* Vite
+
+### Database
+
+* MySQL
+* MongoDB
+* Firebase
+
+### Mobile Development
+
+* Android (Java)
+* Flutter
+* Dart
+* SQLite
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Railway
+
+### Data & APIs
+
+* Python
+* FastAPI
+* REST APIs
+* JSON
+
+---
+
+## 💼 Experience
+
+### Government Staff – Web Developer & HR Systems
+
+**Provincial Human Resource Management Office (PHRMO)**
+2026 – Present
+
+Maintaining and enhancing the Human Resource Management Data System used for government HR operations, ensuring data integrity, system reliability, and continuous feature development.
+
+### Independent Developer
+
+**Kibalamag Elementary School**
+2025 – Present
+
+Developing and maintaining a School Management Information System to streamline administrative processes and improve record management.
+
+### IT Intern – HRMS Developer
+
+**Provincial Human Resource Management Office (PHRMO)**
+2026
+
+Designed and developed a complete HRMS from the ground up during internship, which later became the office's production system.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [ericalenton35@gmail.com](mailto:ericalenton35@gmail.com)
+
+💻 GitHub: https://github.com/Doc3ric
+
+🔗 LinkedIn: https://linkedin.com/in/eric-alenton
+
+📍 Bukidnon, Philippines
+
+---
+
+### 🎯 Current Goal
+
+Seeking freelance, contract, or full-time opportunities where I can contribute to building scalable web and mobile applications that create meaningful impact.
