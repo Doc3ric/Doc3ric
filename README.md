@@ -50,6 +50,31 @@ Laravel • PHP • MySQL • TailwindCSS • Vite • DomPDF • PHPWord • La
 
 ---
 
+### 👥 TalentFlow ATS – Applicant Tracking System
+
+A production-ready Applicant Tracking System (ATS) designed to streamline the entire recruitment lifecycle, from job posting and candidate sourcing to interviews, offers, and hiring analytics.
+
+#### Highlights
+
+* AI-Assisted Resume Parsing using Python
+* Intelligent Candidate-to-Job Match Scoring
+* Interactive Drag-and-Drop Kanban Hiring Pipeline
+* Talent Pool Management with Skills Search & Filtering
+* Interview Scheduling & Candidate Scorecards
+* Automated Offer Letter PDF Generation
+* Email Automation & Template Management
+* Activity Timeline & Full Audit Trail
+* Recruitment Funnel Analytics & Reporting
+* Role-Based Access Control (Admin, HR, Recruiter, Interviewer)
+* Secure JWT Authentication
+
+#### Tech Stack
+
+Django • Django REST Framework • Python • React 18 • Vite • TailwindCSS • TanStack Query • Recharts • dnd-kit • SQLite • JWT Authentication
+
+---
+
+
 ### 🏫 School Management Information System
 
 Developed for an elementary school to streamline student registration, fee collection, reporting, and administrative operations.
@@ -69,29 +94,6 @@ Developed for an elementary school to streamline student registration, fee colle
 Laravel • PHP • MySQL • Vite • DomPDF • Laravel Excel
 
 ---
-
-### 👥 TalentFlow – Recruitment & Applicant Tracking System
-
-A modern recruitment management platform designed to streamline the hiring process from candidate application to onboarding. TalentFlow helps HR teams manage applicants, track hiring progress, maintain talent pools, and improve recruitment efficiency.
-
-#### Highlights
-
-* Applicant Tracking System (ATS)
-* Candidate Talent Pool Management
-* Resume & Profile Management
-* Recruitment Pipeline Tracking
-* Job Posting Management
-* Interview Scheduling
-* Candidate Skill Search & Filtering
-* Activity Timeline & Audit Trail
-* Candidate Tags & Categorization
-* Role-Based Access Control
-* Recruitment Analytics Dashboard
-* Real-Time Hiring Status Updates
-
-#### Tech Stack
-
-Laravel • React • MySQL • TailwindCSS • Vite • REST API • JWT Authentication
 
 
 ### 📱 Dementia Care Monitoring System
