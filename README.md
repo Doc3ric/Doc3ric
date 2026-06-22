@@ -1,24 +1,29 @@
 # 👋 Hi, I'm Eric Alenton
 
-### Full-Stack Web Developer | BSIT Graduate | Government Systems Developer
+### Full-Stack Developer | Laravel & React Specialist | Building Real-World Systems
 
-🚀 **Open to Freelance & Web Development Opportunities**
+🚀 Open to Remote, Freelance, and Full-Time Opportunities
 
-I'm a Bachelor of Science in Information Technology graduate currently working with the Provincial Human Resource Management Office (PHRMO) in Bukidnon. I specialize in building practical, production-ready web applications that solve real-world problems for organizations and communities.
+I'm a Full-Stack Developer with over 2 years of experience building web applications using Laravel, React, Next.js, PHP, and MySQL.
 
-My experience ranges from government HR systems and school management platforms to Android applications, IoT solutions, and data-driven dashboards.
+I specialize in developing business, government, and educational systems that solve real operational challenges. My work includes HR management systems, school information systems, analytics dashboards, Android applications, and API-driven platforms.
+
+I enjoy turning complex requirements into scalable, user-friendly software that delivers measurable value to organizations.
 
 ---
 
-## 💼 What I Do
+## 🔥 Core Expertise
 
-* Full-Stack Web Development
 * Laravel Application Development
-* REST API Development & Integration
-* Database Design & Management
-* Android & Flutter Development
-* System Analysis & Design
-* Government & Educational Information Systems
+* React & Next.js Development
+* REST API Development
+* Database Design & Optimization
+* Full-Stack Web Applications
+* Authentication & Role Management
+* Reporting & Document Generation
+* System Analysis & Software Architecture
+* Mobile App Development
+* Government & Enterprise Systems
 
 ---
 
@@ -26,65 +31,94 @@ My experience ranges from government HR systems and school management platforms 
 
 ### 🏛️ Human Resource Management Data System (PHRMO)
 
-Production-deployed HRMS developed for the Provincial Human Resource Management Office.
+A production-ready Human Resource Management System used by a Provincial Government office to manage employee records, salary movements, personnel actions, and workforce reporting.
 
-**Key Features**
+#### Highlights
 
-* Employee Management
-* Plantilla, Casual & Job Order Records
+* Employee Information Management
+* Plantilla, Casual, and Job Order Tracking
 * Automated Step Increment Processing
-* NOSI, NOLP & NOSA Generation
-* Salary Schedule Management
-* Retirement Tracking
-* Audit Logs
+* NOSI, NOLP, and NOSA Generation
+* Retirement Monitoring
 * Role-Based Access Control
+* Audit Trail & Activity Logs
+* Dynamic Salary Schedule Management
 
-**Tech Stack**
-Laravel • PHP • MySQL • TailwindCSS • Vite • DomPDF • PHPWord • Maatwebsite Excel
+#### Tech Stack
+
+Laravel • PHP • MySQL • TailwindCSS • Vite • DomPDF • PHPWord • Laravel Excel
 
 ---
 
 ### 🏫 School Management Information System
 
-A web-based system developed for Kibalamag Elementary School.
+Developed for an elementary school to streamline student registration, fee collection, reporting, and administrative operations.
 
-**Key Features**
+#### Highlights
 
-* Student Registration
+* Student Registration & Enrollment
 * PTA Fee Management
-* Sibling Discounts
+* Sibling Discount Automation
 * Grade Promotion
-* Excel Import
-* PDF Reports
-* Audit Logging
+* Excel Import & Export
+* PDF Reporting
+* User Activity Logging
 
-**Tech Stack**
-Laravel • PHP • MySQL • Vite • DomPDF • Maatwebsite Excel
+#### Tech Stack
+
+Laravel • PHP • MySQL • Vite • DomPDF • Laravel Excel
 
 ---
+
+### 👥 TalentFlow – Recruitment & Applicant Tracking System
+
+A modern recruitment management platform designed to streamline the hiring process from candidate application to onboarding. TalentFlow helps HR teams manage applicants, track hiring progress, maintain talent pools, and improve recruitment efficiency.
+
+#### Highlights
+
+* Applicant Tracking System (ATS)
+* Candidate Talent Pool Management
+* Resume & Profile Management
+* Recruitment Pipeline Tracking
+* Job Posting Management
+* Interview Scheduling
+* Candidate Skill Search & Filtering
+* Activity Timeline & Audit Trail
+* Candidate Tags & Categorization
+* Role-Based Access Control
+* Recruitment Analytics Dashboard
+* Real-Time Hiring Status Updates
+
+#### Tech Stack
+
+Laravel • React • MySQL • TailwindCSS • Vite • REST API • JWT Authentication
+
 
 ### 📱 Dementia Care Monitoring System
 
-Capstone project combining Android and IoT technologies for patient monitoring.
+Capstone project combining Android and IoT technologies to provide real-time monitoring and safety tracking for dementia patients.
 
-**Key Features**
+#### Highlights
 
-* Real-Time GPS Tracking
+* GPS Tracking
 * Safe Zone Monitoring
+* Real-Time Alerts
 * Firebase Integration
 * Push Notifications
-* Multiple Device Support
+* Multi-Device Support
 
-**Tech Stack**
-Android (Java) • Firebase • Google Maps API • ESP8266 • NEO-6M GPS
+#### Tech Stack
+
+Android (Java) • Firebase • ESP8266 • NEO-6M GPS • Google Maps API
 
 ---
 
-### 🏀 PropTrack NBA Analytics Dashboard
+### 📊 PropTrack NBA Analytics Dashboard
 
-Sports analytics dashboard with automated player performance analysis.
+A sports analytics platform that automates player performance evaluation and statistical analysis.
 
-**Tech Stack**
+#### Tech Stack
+
 React • FastAPI • Python • SQLite • Pandas • TailwindCSS
 
 ---
@@ -97,10 +131,12 @@ React • FastAPI • Python • SQLite • Pandas • TailwindCSS
 * PHP
 * Node.js
 * Express.js
+* FastAPI
 
 ### Frontend
 
 * React
+* Next.js
 * JavaScript
 * HTML5
 * CSS3
@@ -113,68 +149,69 @@ React • FastAPI • Python • SQLite • Pandas • TailwindCSS
 * MySQL
 * MongoDB
 * Firebase
+* SQLite
 
-### Mobile Development
+### Mobile
 
 * Android (Java)
 * Flutter
 * Dart
-* SQLite
 
-### Tools & Platforms
+### Development Tools
 
 * Git
 * GitHub
-* VS Code
 * Postman
+* VS Code
 * Railway
-
-### Data & APIs
-
-* Python
-* FastAPI
 * REST APIs
-* JSON
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-### Government Staff – Web Developer & HR Systems
+### Full-Stack Developer – Provincial Human Resource Management Office (PHRMO)
 
-**Provincial Human Resource Management Office (PHRMO)**
 2026 – Present
 
-Maintaining and enhancing the Human Resource Management Data System used for government HR operations, ensuring data integrity, system reliability, and continuous feature development.
+Maintaining and enhancing a production Human Resource Management System used for government operations. Responsible for feature development, system maintenance, reporting modules, database management, and performance improvements.
 
-### Independent Developer
+### Independent Software Developer
 
-**Kibalamag Elementary School**
 2025 – Present
 
-Developing and maintaining a School Management Information System to streamline administrative processes and improve record management.
+Designing and developing custom web applications for educational and organizational clients, including information systems, reporting platforms, and administrative solutions.
 
 ### IT Intern – HRMS Developer
 
-**Provincial Human Resource Management Office (PHRMO)**
 2026
 
-Designed and developed a complete HRMS from the ground up during internship, which later became the office's production system.
+Designed and developed a complete HRMS from the ground up, which was later adopted as the office's production system.
+
+---
+
+## 📈 Currently Learning
+
+* WordPress Development
+* Docker
+* CI/CD Pipelines
+* Cloud Deployment
+* Advanced React Patterns
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: [ericalenton35@gmail.com](mailto:ericalenton35@gmail.com)
+📧 [ericalenton35@gmail.com](mailto:ericalenton35@gmail.com)
 
-💻 GitHub: https://github.com/Doc3ric
+💻 GitHub: github.com/Doc3ric
 
-🔗 LinkedIn: https://linkedin.com/in/eric-alenton
+🔗 LinkedIn: linkedin.com/in/eric-alenton
 
 📍 Bukidnon, Philippines
 
 ---
 
-### 🎯 Current Goal
+## 🎯 Career Goal
 
-Seeking freelance, contract, or full-time opportunities where I can contribute to building scalable web and mobile applications that create meaningful impact.
+To join a team where I can leverage my Laravel and React expertise to build scalable web applications, contribute to impactful projects, and continuously grow as a software engineer.
