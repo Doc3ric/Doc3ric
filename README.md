@@ -1,246 +1,261 @@
-👋 Hi, I'm Eric Alenton
-Full-Stack Web & Mobile Developer | Laravel • React • React Native • AI Integration
+# 👋 Hi, I'm Eric Alenton
 
-🚀 Open to Remote • Freelance • Full-Time Opportunities
+### Full-Stack Web & Mobile Developer
 
-I'm a Full-Stack Web & Mobile Developer from the Philippines who enjoys building software that solves real-world problems. I specialize in developing modern web applications, mobile apps, government information systems, AI-powered tools, and RESTful APIs.
+Building scalable **web applications**, **cross-platform mobile apps**, **RESTful APIs**, and **AI-powered solutions** using modern technologies.
 
-Over the past few years, I've built production systems for government offices, educational institutions, and personal projects using Laravel, React, React Native, FastAPI, Node.js, and modern development tools.
+💼 **Open to Remote • Freelance • Full-Time Opportunities**
 
-I enjoy learning new technologies, improving existing systems, and creating software that makes people's work easier.
+---
 
-🚀 What I Build
-🏛 Government Information Systems
-💼 Human Resource Management Systems (HRMS)
-👥 Applicant Tracking Systems (ATS)
-📱 Cross-Platform Mobile Applications
-🤖 AI-Powered Applications
-📊 Analytics Dashboards
-🌐 RESTful APIs
-📂 Business Management Systems
-☁ Cloud-Connected Applications
-🏆 Featured Projects
-🏛 Human Resource Management Data System (PHRMO)
+## 🚀 About Me
 
-Production HR Management System currently used by a Provincial Government Office.
+I'm a Full-Stack Web & Mobile Developer from the Philippines with experience building production-ready software for government offices, educational institutions, and business organizations.
 
-Features
-Employee Information Management
-Plantilla, Casual & Job Order Management
-Automated Step Increment Processing
-Salary Schedule Management
-NOSI, NOLP & NOSA Generation
-Retirement Monitoring
-Dynamic Reports
-Audit Trail
-Role-Based Access Control
+I specialize in developing secure, scalable, and user-friendly applications using Laravel, React, React Native, FastAPI, and modern cloud technologies.
 
-Tech Stack
+My passion is building software that automates real-world workflows and improves operational efficiency.
 
-Laravel • PHP • MySQL • TailwindCSS • Vite • Laravel Excel • DomPDF • PHPWord
+---
 
-👥 TalentFlow ATS (Applicant Tracking System)
+# 💻 Tech Stack
 
-Modern recruitment platform inspired by enterprise ATS software.
+### Languages
 
-Features
-AI Resume Parsing
-Candidate Match Scoring
-Kanban Recruitment Pipeline
-Interview Scheduling
-Candidate Scorecards
-Recruitment Analytics
-Email Automation
-Offer Letter Generation
-Audit Logs
-JWT Authentication
+[![Languages](https://skillicons.dev/icons?i=php,js,ts,python,java,dart,html,css)](https://skillicons.dev)
 
-Tech Stack
+### Frontend
 
-React • Django REST • Python • SQLite • TailwindCSS • TanStack Query
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite)](https://skillicons.dev)
 
-📱 AI English Coach
+### Backend
 
-Cross-platform mobile application designed to help users improve their English communication skills.
+[![Backend](https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi)](https://skillicons.dev)
 
-Features
-AI Conversation Practice
-Grammar Correction
-Interview Simulator
-Speaking Practice
-Daily Lessons
-Progress Tracking
+### Mobile
 
-Tech Stack
+[![Mobile](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 
-React Native • Expo • NativeWind • Google Gemini API • Supabase • Clerk Authentication
+**React Native • Expo • Expo Router • NativeWind**
 
-🚗 Automotive Vehicle Listing App
+### Database & Cloud
 
-A virtual assistant platform for managing dealership vehicle listings.
+[![Database](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,supabase)](https://skillicons.dev)
 
-Features
-Vehicle Management
-Image Upload
-Vehicle Specifications
-Search & Filtering
-Dashboard Analytics
+### Development Tools
 
-Tech Stack
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio)](https://skillicons.dev)
 
-React • Laravel API • MySQL
+---
 
-🏫 School Management Information System
+# 🚀 Featured Projects
 
-School information system developed for an elementary school.
+## 🏛 Human Resource Management Data System (PHRMO)
 
-Features
-Student Enrollment
-PTA Fee Management
-Sibling Discounts
-Grade Promotion
-Reports
-Excel Import & Export
+Production-ready Human Resource Management System used by a Provincial Government Office.
 
-Tech Stack
+### Highlights
 
-Laravel • MySQL • Laravel Excel
+- Employee Information Management
+- Plantilla, Casual & Job Order Management
+- Automated Step Increment Processing
+- Salary Schedule Management
+- NOSI, NOLP & NOSA Generation
+- Retirement Monitoring
+- Dynamic Reports
+- Role-Based Access Control
+- Audit Trail
 
-📊 PropTrack NBA Analytics Dashboard
+**Tech Stack**
 
-Sports analytics platform for NBA player statistics.
+`Laravel` • `PHP` • `MySQL` • `Tailwind CSS` • `Vite` • `Laravel Excel` • `DomPDF` • `PHPWord`
 
-Features
-Performance Analytics
-Statistical Dashboards
-Data Visualization
-Automated Reports
+---
 
-Tech Stack
+## 👥 TalentFlow ATS
 
-React • FastAPI • Python • SQLite • Pandas
+Modern Applicant Tracking System inspired by enterprise recruitment platforms.
 
-📍 Dementia Care Monitoring System
+### Highlights
 
-IoT + Android capstone project for monitoring dementia patients.
+- AI Resume Parsing
+- Candidate Match Scoring
+- Kanban Hiring Pipeline
+- Interview Scheduling
+- Candidate Scorecards
+- Recruitment Analytics
+- Email Automation
+- Offer Letter Generation
+- Audit Trail
 
-Features
-GPS Tracking
-Safe Zones
-Push Notifications
-Firebase Integration
-Emergency Alerts
+**Tech Stack**
 
-Tech Stack
+`React` • `Python` • `Django REST Framework` • `SQLite` • `Tailwind CSS`
 
-Android (Java) • Firebase • ESP8266 • NEO-6M GPS
+---
 
-💻 Tech Stack
-Languages
-PHP
-JavaScript
-TypeScript
-Python
-Java
-Dart
-SQL
-Frontend
-React
-Next.js
-React Native
-Expo
-HTML5
-CSS3
-Tailwind CSS
-Bootstrap
-NativeWind
-Vite
-Backend
-Laravel
-Node.js
-Express.js
-FastAPI
-Django REST Framework
-RESTful APIs
-Mobile
-React Native
-Expo
-Flutter
-Android (Java)
-Database
-MySQL
-SQLite
-MongoDB
-Firebase
-Supabase
-Authentication
-Clerk
-JWT
-Laravel Authentication
-AI & Cloud
-Google Gemini API
-Supabase
-Firebase
-Tools
-Git
-GitHub
-Postman
-VS Code
-Android Studio
-Railway
-💼 Experience
-Full-Stack Developer
+## 📱 AI English Coach
 
-Provincial Human Resource Management Office (PHRMO)
+Cross-platform AI-powered English learning application.
 
-2026 – Present
+### Highlights
 
-Maintain and enhance the government's HR Management System.
-Develop new modules and reporting features.
-Optimize databases and application performance.
-Improve user experience for HR personnel.
-Independent Software Developer
+- AI Conversation Practice
+- Grammar Correction
+- Interview Simulator
+- Daily Lessons
+- Progress Tracking
 
-2025 – Present
+**Tech Stack**
 
-Develop custom business systems.
-Build web and mobile applications.
-Design REST APIs.
-Deploy full-stack solutions.
-IT Intern — HRMS Developer
+`React Native` • `Expo` • `Google Gemini API` • `Supabase` • `Clerk Authentication`
 
-2026
+---
+
+## 🚗 Automotive Vehicle Listing Platform
+
+A web application for managing automotive dealership listings.
+
+### Highlights
+
+- Vehicle Management
+- Image Upload
+- Search & Filtering
+- Dashboard Analytics
+- Responsive Design
+
+**Tech Stack**
+
+`React` • `Laravel API` • `MySQL`
+
+---
+
+## 🏫 School Management Information System
+
+Developed for an elementary school to streamline administrative operations.
+
+### Highlights
+
+- Student Enrollment
+- PTA Fee Management
+- Sibling Discount Automation
+- Grade Promotion
+- Excel Import & Export
+- PDF Reports
+
+**Tech Stack**
+
+`Laravel` • `MySQL` • `Laravel Excel`
+
+---
+
+## 📊 PropTrack NBA Analytics Dashboard
+
+Sports analytics platform for player performance insights.
+
+**Tech Stack**
+
+`React` • `FastAPI` • `Python` • `SQLite` • `Pandas`
+
+---
+
+## 📍 Dementia Care Monitoring System
+
+Android + IoT capstone project for monitoring dementia patients.
+
+### Features
+
+- GPS Tracking
+- Safe Zone Monitoring
+- Push Notifications
+- Firebase Integration
+- Emergency Alerts
+
+**Tech Stack**
+
+`Android (Java)` • `Firebase` • `ESP8266` • `NEO-6M GPS`
+
+---
+
+# 💼 Professional Experience
+
+## Full-Stack Developer
+
+**Provincial Human Resource Management Office (PHRMO)**
+
+**2026 – Present**
+
+- Maintain and enhance the production Human Resource Management System.
+- Develop reporting and automation modules.
+- Optimize database performance.
+- Improve application security and usability.
+
+---
+
+## Independent Software Developer
+
+**2025 – Present**
+
+- Develop custom web and mobile applications.
+- Build RESTful APIs.
+- Design scalable database architectures.
+- Deliver business solutions for organizations and schools.
+
+---
+
+## IT Intern – HRMS Developer
+
+**2026**
 
 Designed and developed the Human Resource Management System that later became the office's production system.
 
-🌱 Currently Learning
-Docker
-CI/CD Pipelines
-Kubernetes Basics
-Advanced React Patterns
-System Design
-Microservices
-AI Agent Development
-MCP (Model Context Protocol)
-🎯 2026 Goals
-Build more production-grade SaaS applications
-Master cloud deployment and DevOps
-Contribute to open-source projects
-Grow as a Senior Full-Stack Engineer
-Work with international remote teams
-📫 Connect With Me
+---
 
-📧 Email: mailto:ericalenton35@gmail.com
+# 🌱 Currently Learning
 
-💻 GitHub: https://github.com/Doc3ric
+- Docker
+- CI/CD Pipelines
+- Kubernetes
+- AWS
+- System Design
+- AI Agents
+- MCP (Model Context Protocol)
 
-🔗 LinkedIn: https://linkedin.com/in/eric-alenton
 
-📍 Location: Bukidnon, Philippines
+---
 
-⚡ Fun Facts
-💻 I enjoy building systems that automate manual processes.
-🚀 I love learning new frameworks and technologies.
-🤖 I'm passionate about AI-powered software.
-📱 I build both web and mobile applications.
-🌍 My goal is to work remotely with global development teams.
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:ericalenton35@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Doc3ric">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/eric-alenton">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Doc3ric&style=for-the-badge"/>
+</p>
+
+---
+
+## 💡 Interests
+
+- 🚀 Full-Stack Development
+- 📱 Mobile Development
+- 🤖 Artificial Intelligence
+- ☁ Cloud Computing
+- 📊 Data Visualization
+- 🏛 Government Digital Transformation
+- 🌍 Remote Software Engineering
