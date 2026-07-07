@@ -1,219 +1,246 @@
-# 👋 Hi, I'm Eric Alenton
+👋 Hi, I'm Eric Alenton
+Full-Stack Web & Mobile Developer | Laravel • React • React Native • AI Integration
 
-### Full-Stack Developer | Laravel & React Specialist | Building Real-World Systems
+🚀 Open to Remote • Freelance • Full-Time Opportunities
 
-🚀 Open to Remote, Freelance, and Full-Time Opportunities
+I'm a Full-Stack Web & Mobile Developer from the Philippines who enjoys building software that solves real-world problems. I specialize in developing modern web applications, mobile apps, government information systems, AI-powered tools, and RESTful APIs.
 
-I'm a Full-Stack Developer with over 2 years of experience building web applications using Laravel, React, Next.js, PHP, and MySQL.
+Over the past few years, I've built production systems for government offices, educational institutions, and personal projects using Laravel, React, React Native, FastAPI, Node.js, and modern development tools.
 
-I specialize in developing business, government, and educational systems that solve real operational challenges. My work includes HR management systems, school information systems, analytics dashboards, Android applications, and API-driven platforms.
+I enjoy learning new technologies, improving existing systems, and creating software that makes people's work easier.
 
-I enjoy turning complex requirements into scalable, user-friendly software that delivers measurable value to organizations.
+🚀 What I Build
+🏛 Government Information Systems
+💼 Human Resource Management Systems (HRMS)
+👥 Applicant Tracking Systems (ATS)
+📱 Cross-Platform Mobile Applications
+🤖 AI-Powered Applications
+📊 Analytics Dashboards
+🌐 RESTful APIs
+📂 Business Management Systems
+☁ Cloud-Connected Applications
+🏆 Featured Projects
+🏛 Human Resource Management Data System (PHRMO)
 
----
+Production HR Management System currently used by a Provincial Government Office.
 
-## 🔥 Core Expertise
+Features
+Employee Information Management
+Plantilla, Casual & Job Order Management
+Automated Step Increment Processing
+Salary Schedule Management
+NOSI, NOLP & NOSA Generation
+Retirement Monitoring
+Dynamic Reports
+Audit Trail
+Role-Based Access Control
 
-* Laravel Application Development
-* React & Next.js Development
-* REST API Development
-* Database Design & Optimization
-* Full-Stack Web Applications
-* Authentication & Role Management
-* Reporting & Document Generation
-* System Analysis & Software Architecture
-* Mobile App Development
-* Government & Enterprise Systems
+Tech Stack
 
----
+Laravel • PHP • MySQL • TailwindCSS • Vite • Laravel Excel • DomPDF • PHPWord
 
-## 🏆 Featured Projects
+👥 TalentFlow ATS (Applicant Tracking System)
 
-### 🏛️ Human Resource Management Data System (PHRMO)
+Modern recruitment platform inspired by enterprise ATS software.
 
-A production-ready Human Resource Management System used by a Provincial Government office to manage employee records, salary movements, personnel actions, and workforce reporting.
+Features
+AI Resume Parsing
+Candidate Match Scoring
+Kanban Recruitment Pipeline
+Interview Scheduling
+Candidate Scorecards
+Recruitment Analytics
+Email Automation
+Offer Letter Generation
+Audit Logs
+JWT Authentication
 
-#### Highlights
+Tech Stack
 
-* Employee Information Management
-* Plantilla, Casual, and Job Order Tracking
-* Automated Step Increment Processing
-* NOSI, NOLP, and NOSA Generation
-* Retirement Monitoring
-* Role-Based Access Control
-* Audit Trail & Activity Logs
-* Dynamic Salary Schedule Management
+React • Django REST • Python • SQLite • TailwindCSS • TanStack Query
 
-#### Tech Stack
+📱 AI English Coach
 
-Laravel • PHP • MySQL • TailwindCSS • Vite • DomPDF • PHPWord • Laravel Excel
+Cross-platform mobile application designed to help users improve their English communication skills.
 
----
+Features
+AI Conversation Practice
+Grammar Correction
+Interview Simulator
+Speaking Practice
+Daily Lessons
+Progress Tracking
 
-### 👥 TalentFlow ATS – Applicant Tracking System
+Tech Stack
 
-A production-ready Applicant Tracking System (ATS) designed to streamline the entire recruitment lifecycle, from job posting and candidate sourcing to interviews, offers, and hiring analytics.
+React Native • Expo • NativeWind • Google Gemini API • Supabase • Clerk Authentication
 
-#### Highlights
+🚗 Automotive Vehicle Listing App
 
-* AI-Assisted Resume Parsing using Python
-* Intelligent Candidate-to-Job Match Scoring
-* Interactive Drag-and-Drop Kanban Hiring Pipeline
-* Talent Pool Management with Skills Search & Filtering
-* Interview Scheduling & Candidate Scorecards
-* Automated Offer Letter PDF Generation
-* Email Automation & Template Management
-* Activity Timeline & Full Audit Trail
-* Recruitment Funnel Analytics & Reporting
-* Role-Based Access Control (Admin, HR, Recruiter, Interviewer)
-* Secure JWT Authentication
+A virtual assistant platform for managing dealership vehicle listings.
 
-#### Tech Stack
+Features
+Vehicle Management
+Image Upload
+Vehicle Specifications
+Search & Filtering
+Dashboard Analytics
 
-Django • Django REST Framework • Python • React 18 • Vite • TailwindCSS • TanStack Query • Recharts • dnd-kit • SQLite • JWT Authentication
+Tech Stack
 
----
+React • Laravel API • MySQL
 
+🏫 School Management Information System
 
-### 🏫 School Management Information System
+School information system developed for an elementary school.
 
-Developed for an elementary school to streamline student registration, fee collection, reporting, and administrative operations.
+Features
+Student Enrollment
+PTA Fee Management
+Sibling Discounts
+Grade Promotion
+Reports
+Excel Import & Export
 
-#### Highlights
+Tech Stack
 
-* Student Registration & Enrollment
-* PTA Fee Management
-* Sibling Discount Automation
-* Grade Promotion
-* Excel Import & Export
-* PDF Reporting
-* User Activity Logging
+Laravel • MySQL • Laravel Excel
 
-#### Tech Stack
+📊 PropTrack NBA Analytics Dashboard
 
-Laravel • PHP • MySQL • Vite • DomPDF • Laravel Excel
+Sports analytics platform for NBA player statistics.
 
----
+Features
+Performance Analytics
+Statistical Dashboards
+Data Visualization
+Automated Reports
 
+Tech Stack
 
-### 📱 Dementia Care Monitoring System
+React • FastAPI • Python • SQLite • Pandas
 
-Capstone project combining Android and IoT technologies to provide real-time monitoring and safety tracking for dementia patients.
+📍 Dementia Care Monitoring System
 
-#### Highlights
+IoT + Android capstone project for monitoring dementia patients.
 
-* GPS Tracking
-* Safe Zone Monitoring
-* Real-Time Alerts
-* Firebase Integration
-* Push Notifications
-* Multi-Device Support
+Features
+GPS Tracking
+Safe Zones
+Push Notifications
+Firebase Integration
+Emergency Alerts
 
-#### Tech Stack
+Tech Stack
 
-Android (Java) • Firebase • ESP8266 • NEO-6M GPS • Google Maps API
+Android (Java) • Firebase • ESP8266 • NEO-6M GPS
 
----
+💻 Tech Stack
+Languages
+PHP
+JavaScript
+TypeScript
+Python
+Java
+Dart
+SQL
+Frontend
+React
+Next.js
+React Native
+Expo
+HTML5
+CSS3
+Tailwind CSS
+Bootstrap
+NativeWind
+Vite
+Backend
+Laravel
+Node.js
+Express.js
+FastAPI
+Django REST Framework
+RESTful APIs
+Mobile
+React Native
+Expo
+Flutter
+Android (Java)
+Database
+MySQL
+SQLite
+MongoDB
+Firebase
+Supabase
+Authentication
+Clerk
+JWT
+Laravel Authentication
+AI & Cloud
+Google Gemini API
+Supabase
+Firebase
+Tools
+Git
+GitHub
+Postman
+VS Code
+Android Studio
+Railway
+💼 Experience
+Full-Stack Developer
 
-### 📊 PropTrack NBA Analytics Dashboard
-
-A sports analytics platform that automates player performance evaluation and statistical analysis.
-
-#### Tech Stack
-
-React • FastAPI • Python • SQLite • Pandas • TailwindCSS
-
----
-
-## 💻 Tech Stack
-
-### Backend
-
-* Laravel
-* PHP
-* Node.js
-* Express.js
-* FastAPI
-
-### Frontend
-
-* React
-* Next.js
-* JavaScript
-* HTML5
-* CSS3
-* TailwindCSS
-* Bootstrap
-* Vite
-
-### Database
-
-* MySQL
-* MongoDB
-* Firebase
-* SQLite
-
-### Mobile
-
-* Android (Java)
-* Flutter
-* Dart
-
-### Development Tools
-
-* Git
-* GitHub
-* Postman
-* VS Code
-* Railway
-* REST APIs
-
----
-
-## 💼 Professional Experience
-
-### Full-Stack Developer – Provincial Human Resource Management Office (PHRMO)
+Provincial Human Resource Management Office (PHRMO)
 
 2026 – Present
 
-Maintaining and enhancing a production Human Resource Management System used for government operations. Responsible for feature development, system maintenance, reporting modules, database management, and performance improvements.
-
-### Independent Software Developer
+Maintain and enhance the government's HR Management System.
+Develop new modules and reporting features.
+Optimize databases and application performance.
+Improve user experience for HR personnel.
+Independent Software Developer
 
 2025 – Present
 
-Designing and developing custom web applications for educational and organizational clients, including information systems, reporting platforms, and administrative solutions.
-
-### IT Intern – HRMS Developer
+Develop custom business systems.
+Build web and mobile applications.
+Design REST APIs.
+Deploy full-stack solutions.
+IT Intern — HRMS Developer
 
 2026
 
-Designed and developed a complete HRMS from the ground up, which was later adopted as the office's production system.
+Designed and developed the Human Resource Management System that later became the office's production system.
 
----
+🌱 Currently Learning
+Docker
+CI/CD Pipelines
+Kubernetes Basics
+Advanced React Patterns
+System Design
+Microservices
+AI Agent Development
+MCP (Model Context Protocol)
+🎯 2026 Goals
+Build more production-grade SaaS applications
+Master cloud deployment and DevOps
+Contribute to open-source projects
+Grow as a Senior Full-Stack Engineer
+Work with international remote teams
+📫 Connect With Me
 
-## 📈 Currently Learning
+📧 Email: mailto:ericalenton35@gmail.com
 
-* WordPress Development
-* Docker
-* CI/CD Pipelines
-* Cloud Deployment
-* Advanced React Patterns
+💻 GitHub: https://github.com/Doc3ric
 
----
+🔗 LinkedIn: https://linkedin.com/in/eric-alenton
 
-## 📫 Connect With Me
+📍 Location: Bukidnon, Philippines
 
-📧 [ericalenton35@gmail.com](mailto:ericalenton35@gmail.com)
-
-💻 GitHub: github.com/Doc3ric
-
-🔗 LinkedIn: linkedin.com/in/eric-alenton
-
-📍 Bukidnon, Philippines
-
----
-
-## 🎯 Career Goal
-
-To join a team where I can leverage my Laravel and React expertise to build scalable web applications, contribute to impactful projects, and continuously grow as a software engineer.
+⚡ Fun Facts
+💻 I enjoy building systems that automate manual processes.
+🚀 I love learning new frameworks and technologies.
+🤖 I'm passionate about AI-powered software.
+📱 I build both web and mobile applications.
+🌍 My goal is to work remotely with global development teams.
