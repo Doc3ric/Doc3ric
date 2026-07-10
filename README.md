@@ -2,47 +2,53 @@
 
 ### Full-Stack Web & Mobile Developer
 
-Building scalable **web applications**, **cross-platform mobile apps**, **RESTful APIs**, and **AI-powered solutions** using modern technologies.
+Building **production-ready web applications**, **AI-powered software**, **cross-platform mobile apps**, and **modern business systems** using Laravel, React, Next.js, React Native, Python, and cloud technologies.
 
 💼 **Open to Remote • Freelance • Full-Time Opportunities**
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a Full-Stack Web & Mobile Developer from the Philippines with experience building production-ready software for government offices, educational institutions, and business organizations.
+I'm a BSIT graduate from the Philippines currently working at the **Provincial Human Resource Management Office (PHRMO)** in Bukidnon, where I maintain and continuously develop a production Human Resource Management System used for government HR operations.
 
-I specialize in developing secure, scalable, and user-friendly applications using Laravel, React, React Native, FastAPI, and modern cloud technologies.
+I enjoy solving real-world problems through software—building scalable applications that automate workflows, improve efficiency, and provide great user experiences.
 
-My passion is building software that automates real-world workflows and improves operational efficiency.
+My experience spans government systems, educational platforms, AI-powered applications, browser extensions, REST APIs, and mobile development.
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+## Languages
 
 [![Languages](https://skillicons.dev/icons?i=php,js,ts,python,java,dart,html,css)](https://skillicons.dev)
 
-### Frontend
+## Frontend
 
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite)](https://skillicons.dev)
 
-### Backend
+**React 19 • Next.js • Tailwind CSS • shadcn/ui • Radix UI**
+
+## Backend
 
 [![Backend](https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi)](https://skillicons.dev)
 
-### Mobile
+**Laravel • Django REST Framework • FastAPI • REST APIs**
+
+## Mobile
 
 [![Mobile](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 
-**React Native • Expo • Expo Router • NativeWind**
+**React Native • Expo • NativeWind • Android (Java)**
 
-### Database & Cloud
+## Database & Cloud
 
 [![Database](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,supabase)](https://skillicons.dev)
 
-### Development Tools
+**PostgreSQL • Firebase • Clerk Authentication**
+
+## Development Tools
 
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio)](https://skillicons.dev)
 
@@ -52,106 +58,119 @@ My passion is building software that automates real-world workflows and improves
 
 ## 🏛 Human Resource Management Data System (PHRMO)
 
-Production-ready Human Resource Management System used by a Provincial Government Office.
+Production-ready Human Resource Management System developed for the Provincial Human Resource Management Office (PHRMO), Bukidnon.
 
 ### Highlights
 
-- Employee Information Management
-- Plantilla, Casual & Job Order Management
-- Automated Step Increment Processing
-- Salary Schedule Management
-- NOSI, NOLP & NOSA Generation
-- Retirement Monitoring
-- Dynamic Reports
-- Role-Based Access Control
-- Audit Trail
+* Employee Information Management
+* Plantilla, Casual & Job Order Modules
+* Automated Step Increment Processing
+* Salary Schedule Management
+* Retirement Monitoring
+* NOSI, NOLP & NOSA Generation
+* Multi-step Excel Import
+* Audit Trail
+* Role-Based Access Control
 
 **Tech Stack**
 
-`Laravel` • `PHP` • `MySQL` • `Tailwind CSS` • `Vite` • `Laravel Excel` • `DomPDF` • `PHPWord`
+`Laravel` • `PHP` • `MySQL` • `Tailwind CSS` • `Vite` • `Laravel Excel` • `DomPDF` • `PHPWord` • `Spatie Activitylog`
 
 ---
 
 ## 👥 TalentFlow ATS
 
-Modern Applicant Tracking System inspired by enterprise recruitment platforms.
+Modern Applicant Tracking System with AI-assisted recruitment workflow.
 
 ### Highlights
 
-- AI Resume Parsing
-- Candidate Match Scoring
-- Kanban Hiring Pipeline
-- Interview Scheduling
-- Candidate Scorecards
-- Recruitment Analytics
-- Email Automation
-- Offer Letter Generation
-- Audit Trail
+* Resume Parsing
+* Candidate Match Scoring
+* Drag-and-Drop Kanban Pipeline
+* Activity Timeline
+* Offer Letter Generation
+* Email Automation
+* Talent Pool Search
+* Audit Trail
 
 **Tech Stack**
 
-`React` • `Python` • `Django REST Framework` • `SQLite` • `Tailwind CSS`
+`React` • `Django REST Framework` • `Python` • `PostgreSQL` • `Tailwind CSS`
 
 ---
 
-## 📱 AI English Coach
+## 📱 English Coach AI
 
-Cross-platform AI-powered English learning application.
-
-### Highlights
-
-- AI Conversation Practice
-- Grammar Correction
-- Interview Simulator
-- Daily Lessons
-- Progress Tracking
-
-**Tech Stack**
-
-`React Native` • `Expo` • `Google Gemini API` • `Supabase` • `Clerk Authentication`
-
----
-
-## 🚗 Automotive Vehicle Listing Platform
-
-A web application for managing automotive dealership listings.
+AI-powered language learning application built with React Native and Expo.
 
 ### Highlights
 
-- Vehicle Management
-- Image Upload
-- Search & Filtering
-- Dashboard Analytics
-- Responsive Design
+* Google Gemini AI Integration
+* Grammar Correction
+* Writing Evaluation
+* Vocabulary Suggestions
+* Spaced Repetition (SM-2)
+* XP & Streak System
+* Offline-First Architecture
+* Lesson & Quiz Engine
 
 **Tech Stack**
 
-`React` • `Laravel API` • `MySQL`
+`React Native` • `Expo` • `TypeScript` • `Supabase` • `Clerk` • `Google Gemini AI` • `Zustand` • `TanStack Query`
 
 ---
 
 ## 🏫 School Management Information System
 
-Developed for an elementary school to streamline administrative operations.
+Production-deployed School Management System built for Kibalamag Elementary School.
 
 ### Highlights
 
-- Student Enrollment
-- PTA Fee Management
-- Sibling Discount Automation
-- Grade Promotion
-- Excel Import & Export
-- PDF Reports
+* PTA Fee Management
+* Student Registration
+* Sibling Discount Automation
+* Grade Promotion
+* Payment Tracking
+* Excel Import
+* PDF Reports
+* Audit Logging
 
 **Tech Stack**
 
-`Laravel` • `MySQL` • `Laravel Excel`
+`Laravel` • `PHP` • `MySQL` • `Laravel Excel` • `DomPDF`
+
+---
+
+## 🤖 AI Job Hunter
+
+AI-powered Chrome Extension and Next.js web application for resume-to-job analysis.
+
+### Highlights
+
+* Resume-to-Job Match Scoring
+* Job Description Scraping
+* ATS Compatibility Analysis
+* Missing Skills Detection
+* AI Recommendations
+* Chrome Extension Integration
+
+**Tech Stack**
+
+`Next.js` • `React` • `TypeScript` • `Supabase` • `Groq API` • `Google Gemini AI` • `Chrome Extension MV3`
 
 ---
 
 ## 📊 PropTrack NBA Analytics Dashboard
 
-Sports analytics platform for player performance insights.
+NBA player analytics platform with automated statistical analysis.
+
+### Highlights
+
+* Historical Hit Rate Analysis
+* Opponent Matchup Analytics
+* Interactive Charts
+* Automated Data Processing
+* SQLite Caching
 
 **Tech Stack**
 
@@ -161,34 +180,35 @@ Sports analytics platform for player performance insights.
 
 ## 📍 Dementia Care Monitoring System
 
-Android + IoT capstone project for monitoring dementia patients.
+Android + IoT capstone project for monitoring dementia patients using GPS.
 
-### Features
+### Highlights
 
-- GPS Tracking
-- Safe Zone Monitoring
-- Push Notifications
-- Firebase Integration
-- Emergency Alerts
+* Live GPS Tracking
+* Safe Zone Monitoring
+* Firebase Synchronization
+* Push Notifications
+* ESP8266 Integration
+* Multiple Device Support
 
 **Tech Stack**
 
-`Android (Java)` • `Firebase` • `ESP8266` • `NEO-6M GPS`
+`Android (Java)` • `Firebase` • `ESP8266` • `Arduino` • `Google Maps API`
 
 ---
 
 # 💼 Professional Experience
 
-## Full-Stack Developer
+## Government Staff – Web Developer & HR Systems
 
 **Provincial Human Resource Management Office (PHRMO)**
 
 **2026 – Present**
 
-- Maintain and enhance the production Human Resource Management System.
-- Develop reporting and automation modules.
-- Optimize database performance.
-- Improve application security and usability.
+* Maintain and enhance the production Human Resource Management System.
+* Develop new HR automation modules.
+* Improve application performance and security.
+* Provide technical support for government HR operations.
 
 ---
 
@@ -196,10 +216,7 @@ Android + IoT capstone project for monitoring dementia patients.
 
 **2025 – Present**
 
-- Develop custom web and mobile applications.
-- Build RESTful APIs.
-- Design scalable database architectures.
-- Deliver business solutions for organizations and schools.
+Developing custom web and mobile applications for organizations, educational institutions, and personal clients.
 
 ---
 
@@ -207,20 +224,19 @@ Android + IoT capstone project for monitoring dementia patients.
 
 **2026**
 
-Designed and developed the Human Resource Management System that later became the office's production system.
+Designed and developed the Human Resource Management System that later became the production system used by the Provincial Human Resource Management Office.
 
 ---
 
 # 🌱 Currently Learning
 
-- Docker
-- CI/CD Pipelines
-- Kubernetes
-- AWS
-- System Design
-- AI Agents
-- MCP (Model Context Protocol)
-
+* Docker
+* CI/CD Pipelines
+* Kubernetes
+* AWS
+* System Design
+* AI Agents
+* Model Context Protocol (MCP)
 
 ---
 
@@ -252,10 +268,10 @@ Designed and developed the Human Resource Management System that later became th
 
 ## 💡 Interests
 
-- 🚀 Full-Stack Development
-- 📱 Mobile Development
-- 🤖 Artificial Intelligence
-- ☁ Cloud Computing
-- 📊 Data Visualization
-- 🏛 Government Digital Transformation
-- 🌍 Remote Software Engineering
+* 🚀 Full-Stack Web Development
+* 📱 Mobile Application Development
+* 🤖 Artificial Intelligence
+* 🏛 Government Digital Transformation
+* ☁ Cloud Computing
+* 📊 Data Analytics
+* 🌍 Remote Software Engineering
