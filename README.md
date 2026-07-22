@@ -240,6 +240,19 @@ Designed and developed the Human Resource Management System that later became th
 
 ---
 
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Doc3ric&theme=dark&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Doc3ric&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doc3ric&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2F81F7" alt="Top Languages" width="49%" />
+</p>
+
+---
+
 # 📫 Connect With Me
 
 <p align="left">
